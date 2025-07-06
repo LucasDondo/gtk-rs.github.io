@@ -269,8 +269,8 @@
     "description": "Monitor system resources, apps and services"
   },
   {
-    "name": "Mind Hunt",
-    "url": "https://github.com/timcharper/MindHunt",
+    "name": "EmojiClu",
+    "url": "https://github.com/timcharper/EmojiClu",
     "description": "Graphical Zebra Puzzle Logic Game, similar to Sudoku"
   }
 ]
