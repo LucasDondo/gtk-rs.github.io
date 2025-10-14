@@ -26,10 +26,6 @@
     "url": "https://gitlab.gnome.org/World/design/contrast"
   },
   {
-    "name": "Cookbook",
-    "url": "https://github.com/MacKarp/Cookbook"
-  },
-  {
     "name": "Celeste",
     "url": "https://github.com/hwittenborn/celeste",
     "app_id": "com.hunterwittenborn.Celeste",
@@ -88,10 +84,6 @@
     "url": "https://github.com/vhakulinen/gnvim"
   },
   {
-    "name": "gled",
-    "url": "https://gitlab.com/pentagonum/gled"
-  },
-  {
     "name": "glide",
     "url": "https://github.com/philn/glide"
   },
@@ -132,10 +124,6 @@
     "url": "https://codeberg.org/baarkerlounger/jogger",
     "app_id": "xyz.slothlife.Jogger",
     "description": "A Fitness Tracker for Gnome Mobile"
-  },
-  {
-    "name": "Iridium",
-    "url": "https://github.com/matze/iridium"
   },
   {
     "name": "lognplot",
@@ -202,7 +190,7 @@
     "name": "Projectpad",
     "url": "https://github.com/emmanueltouzery/projectpad2"
   },
-  { 
+  {
     "name": "Pt",
     "url": "https://github.com/polachok/pt",
     "description": "Simple terminal"
