@@ -14,6 +14,12 @@
     "description": "Generate Two-Factor Codes."
   },
   {
+    "name": "Bobby",
+    "url": "https://github.com/hbons/Bobby",
+    "app_id": "studio.planetpeanut.Bobby",
+    "description": "Browse SQLite files"
+  },
+  {
     "name": "Cigale",
     "url": "https://github.com/emmanueltouzery/cigale"
   },
