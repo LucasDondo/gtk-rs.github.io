@@ -266,5 +266,11 @@
     "name": "EmojiClu",
     "url": "https://github.com/timcharper/EmojiClu",
     "description": "Graphical Zebra Puzzle Logic Game, similar to Sudoku"
+  },
+  {
+    "name": "Morse"
+    "url": "https://github.com/teacond/Morse",
+    "app_id": "io.github.teacond.Morse",
+    "description": "Learn Morse Code and High Speed Telegraphy."
   }
 ]
